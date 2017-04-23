@@ -3,8 +3,6 @@
 
 #include "Node.h"
 
-//using namespace std;
-
 /**
 Class representing Doubly Linked List
  */
