@@ -12,6 +12,6 @@ To compile, run & unit test:
 ```
 
 I encountered some errors which occured sometimes during building the project.
-The solution is to execute point 3 ( cmake .. ) twice in a row. 
+The solution is to execute point 3 (cmake ..) twice in a row. 
 It may be connected with some cache files.
 I will try to find solution for that asap.
