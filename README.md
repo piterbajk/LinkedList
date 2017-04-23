@@ -10,3 +10,8 @@ To compile, run & unit test:
    or 
    run unit tests: ./test/testfoo/testfoo 
 ```
+
+I encountered some errors which occured sometimes during building the project.
+The solution is to execute point 3 ( cmake .. ) twice in a row. 
+It may be connected with some cache files.
+I will try to find solution for that asap.
